@@ -1,0 +1,15 @@
+{
+  "name": "horsepower",
+  "version": "1.0.0",
+  "description": "practice ML",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Day",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.3",
+    "@tensorflow/tfjs-vis": "^1.1.0"
+  }
+}
